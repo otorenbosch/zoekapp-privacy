@@ -3,7 +3,7 @@
 Laatst bijgewerkt: 24 november 2023
 
 ## Inleiding
-Deze privacy policy is van toepassing op de Zoekapp (hierna: "de App"), ontwikkeld voor het registreren van archeologische vondsten. Wij hechten groot belang aan de privacy van onze gebruikers en zorgen ervoor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
+Deze privacy policy is van toepassing op de Zoekapp (hierna: "de App"), ontwikkeld voor het registreren van metaaldetector vondsten. Wij hechten groot belang aan de privacy van onze gebruikers en zorgen ervoor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
 
 ## Welke gegevens verzamelen wij
 De App verzamelt en verwerkt de volgende gegevens:
@@ -11,7 +11,7 @@ De App verzamelt en verwerkt de volgende gegevens:
 1. **Locatiegegevens**
    - GPS-coördinaten van vondstlocaties
    - Deze gegevens worden alleen verzameld wanneer u een vondst registreert
-   - U kunt de locatietoegang op elk moment in- of uitschakelen via uw apparaatinstellingen
+   - Deze coördinaten worden lokaal op uw apparaat opgeslagen
 
 2. **Afbeeldingen**
    - Foto's die u maakt van uw vondsten
@@ -29,6 +29,7 @@ De App verzamelt en verwerkt de volgende gegevens:
 ## Dataopslag en Beveiliging
 - Alle gegevens worden lokaal op uw apparaat opgeslagen
 - U kunt zelf een backup maken en beheren van uw gegevens
+- U kunt zelf de gegevens verwijderen van uw apparaat
 - Wij hebben geen toegang tot uw opgeslagen gegevens
 
 ## Google Maps
@@ -41,8 +42,7 @@ Onze diensten zijn niet bedoeld voor gebruikers jonger dan 16 jaar. We verzamele
 U heeft de volgende rechten met betrekking tot uw gegevens:
 - Recht op inzage van uw gegevens (via de App)
 - Recht op verwijdering van uw gegevens (via de App)
-- Recht op het maken van een backup van uw gegevens
-- Recht op het beperken van locatietoegang (via apparaatinstellingen)
+- Recht op het maken van een backup van uw gegevens (via de App)
 
 ## Wijzigingen
 Wij behouden ons het recht voor om wijzigingen aan te brengen in dit privacy beleid. Het is aan te raden om dit privacy beleid regelmatig te raadplegen.
