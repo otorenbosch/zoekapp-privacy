@@ -1,6 +1,6 @@
 # Privacy Beleid Zoekapp
 
-Laatst bijgewerkt: 24 november 2023
+Laatst bijgewerkt: 24 november 2024
 
 ## Inleiding
 Deze privacy policy is van toepassing op de Zoekapp (hierna: "de App"), ontwikkeld voor het registreren van metaaldetector vondsten. Wij hechten groot belang aan de privacy van onze gebruikers en zorgen ervoor dat de persoonlijke informatie die u ons verschaft vertrouwelijk wordt behandeld.
